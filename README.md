@@ -2,7 +2,5 @@
 Here is my first Github repository . Let's get started with Github
 README.md file was just edited manually
 
-New line for deliver insight
-
-123456
+This is Agility with Github
 
