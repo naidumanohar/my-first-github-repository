@@ -4,8 +4,4 @@ README.md file was just edited manually
 
 This is Agility with Github
 
-Once more
-
-Jiragithub
-
-ddfhw
+This is jiragithub
